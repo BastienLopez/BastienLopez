@@ -5,7 +5,7 @@
   <h2>Welcome to my Github ! :wave:</h2>
   👨‍💻 I'm Bastien, 22 , I'm a French Full-Stack developer.<br />
   4rd year of application design and development.<br />
-  I'm currently work at WEB3 DIGITAL WALLET
+  I currently work fully remotely at WEB3 DIGITAL WALLET
   <br />
 
   <h2>About :pushpin:</h2>
@@ -35,8 +35,7 @@
   <br />
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienLopez&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-  />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienLopez&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   <br>
   <div style="pointer-events: none;">
     <a href="https://visitcount.itsvg.in/api?id=BastienLopez&icon=1&color=11"><br><img src="https://visitcount.itsvg.in/api?id=BastienLopez&icon=1&color=11"></a>
