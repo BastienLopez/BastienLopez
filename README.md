@@ -3,8 +3,8 @@
     <img alt="Coding" width="450" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
   </div>
   <h2>Welcome to my Github ! :wave:</h2>
-  👨‍💻 I'm Bastien, 22 , I'm a French Full-Stack developer.<br />
-  4rd year of application design and development.<br />
+  I'm Bastien, 22 , I'm a French Full-Stack developer.<br />
+  4rd year of application design, development and management.<br />
   I currently work fully remotely at WEB3 DIGITAL WALLET
   <br />
 
@@ -31,6 +31,14 @@
     <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   </div>
 
+  <h2>Contact me 📩</h2>
+    <a href="https://linkedin.com/in/BastienLopez">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a> 
+    <br>
+    <a> Or by email to: <br> </a> 
+    <a href="mailto:bastien.lopez40@gmail.com">bastien.lopez40@gmail.com</a>
+      
   <h2>Github stats 📊</h2>
   <br />
   <img
