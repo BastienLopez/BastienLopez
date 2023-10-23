@@ -1,7 +1,8 @@
 <div align="center">
   <h2>Welcome to my Github ! :wave:</h2>
   👨‍💻 I'm Bastien, 22 , I'm a French Full-Stack developer.<br />
-  4rd year of application design and development.
+  4rd year of application design and development.<br />
+  Currently work at WEB3 DIGITAL WALLET
   <br />
 
   <h2>About :pushpin:</h2>
