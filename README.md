@@ -32,7 +32,7 @@
   </div>
 
   <h2>Contact me 📩</h2>
-    <a href="https://linkedin.com/in/BastienLopez">
+    <a href="https://www.linkedin.com/in/bastien-lopez-185186208/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a> 
     <br>
