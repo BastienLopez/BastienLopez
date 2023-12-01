@@ -31,6 +31,14 @@
     <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   </div>
 
+  <h2>My tasks at WEB3 DIGITAL WALLET 📝</h2>
+  <div>
+    IOS/Android test of Altme & Talao app and manage feedback user <br />
+    <a href="https://altme-documentation.gitbook.io/altmes-documentation"> Altme documentation </a> <br />
+    <a href="https://github.com/TalaoDAO/DiscoverV2">Discover</a> part for the Altme app with the <a href="https://apiguide.coingecko.com/exclusive-endpoints/for-paid-plan-subscribers">Coingecko API</a> <br />
+    
+  </div>
+  
   <h2>Contact me 📩</h2>
     <a href="https://www.linkedin.com/in/bastien-lopez-185186208/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
