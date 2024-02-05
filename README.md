@@ -1,6 +1,6 @@
 <div align="center">
   <div style="pointer-events: none;">
-    <img alt="Coding" width="600" height="350" src="dev_gif.gif">
+    <img alt="Coding" width="600" height="400" src="dev_gif.gif">
   </div>
   <h2>Welcome to my Github ! :wave:</h2>
   I'm Bastien, 22 , I'm a French Full-Stack developer.<br />
