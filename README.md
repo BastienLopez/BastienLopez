@@ -36,6 +36,8 @@
     IOS/Android test of Altme & Talao app and manage feedback user <br />
     <a href="https://altme-documentation.gitbook.io/altmes-documentation"> Altme documentation </a> <br />
     <a href="https://github.com/TalaoDAO/DiscoverV2">Discover</a> part for the Altme app with the <a href="https://apiguide.coingecko.com/exclusive-endpoints/for-paid-plan-subscribers">Coingecko API</a> <br />
+    <a href=" https://github.com/TalaoDAO/wallet-provider"> Wallet Provider </a> to create your own Issuers for Professional Wallet <br />
+   
     
   </div>
   
