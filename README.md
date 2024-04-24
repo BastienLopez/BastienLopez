@@ -3,7 +3,7 @@
     <img alt="Coding" width="600" height="400" src="dev_gif.gif">
   </div>
   <h2>Welcome to my Github ! :wave:</h2>
-  I'm Bastien, 22 , I'm a French Full-Stack developer.<br />
+  I'm Bastien, 23, a French Full-Stack developer.<br />
   4rd year of application design, development and management.<br />
   I currently work fully remotely at WEB3 DIGITAL WALLET
   <br />
@@ -36,7 +36,8 @@
     IOS/Android test of Altme & Talao app and manage feedback user <br />
     <a href="https://altme-documentation.gitbook.io/altmes-documentation"> Altme documentation </a> <br />
     <a href="https://github.com/TalaoDAO/DiscoverV2">Discover</a> part for the Altme app with the <a href="https://apiguide.coingecko.com/exclusive-endpoints/for-paid-plan-subscribers">Coingecko API</a> <br />
-    <a href="https://github.com/TalaoDAO/wallet-provider">Wallet Provider</a> to create your own Issuers for Professional Wallet <br />
+    <a href="https://github.com/TalaoDAO/wallet-provider">Wallet Provider</a> to create your own Issuers for Professional Wallet with the <a href="https://docs.godiddy.com/en/quickstart">Godiddy API</a> <br />
+    
    
     
   </div>
