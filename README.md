@@ -34,7 +34,7 @@
   <h2>My tasks at WEB3 DIGITAL WALLET 📝</h2>
   <div>
     IOS/Android test of Altme & Talao app and manage feedback user <br />
-    <a href="https://altme-documentation.gitbook.io/altmes-documentation"> Altme documentation </a> <br />
+    <a href="https://altme-documentation.gitbook.io/wallet-provider-documentation/"> Web3 Digital Wallet Documentation with <a href="https://www.gitbook.com/">GitBook</a> <br />
     <a href="https://github.com/TalaoDAO/DiscoverV2">Discover</a> part for the Altme app with the <a href="https://apiguide.coingecko.com/exclusive-endpoints/for-paid-plan-subscribers">Coingecko API</a> <br />
     <a href="https://github.com/TalaoDAO/wallet-provider">Wallet Provider</a> to create your own Issuers for Professional Wallet with the <a href="https://docs.godiddy.com/en/quickstart">Godiddy API</a> <br />
     
