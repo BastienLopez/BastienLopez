@@ -21,26 +21,52 @@
     <a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"></a>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></a>
     <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"></a>
-    <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"></a>
-    <br />
     <a href="https://web3js.readthedocs.io/"><img src="https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white"></a>
-    <a href="https://symfony.com/"><img src="https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white"></a>
+    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-blue?style=flat&logo=docker&logoColor=black"></a>
+    <br />
+    <a href="https://www.gitbook.com/"><img src="https://img.shields.io/badge/gitbook-blue?style=flat&logo=gitbook&logoColor=black"></a>
+    <a href="https://docusaurus.io/"><img src="https://img.shields.io/badge/docusaurus-green_lime?style=flat&logo=docusaurus&logoColor=black"></a>
     <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
     <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white"></a>
     <a href="https://www.webflow.com/"><img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white"></a>
     <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   </div>
 
-  <h2>My tasks at WEB3 DIGITAL WALLET 📝</h2>
-  <div>
-    IOS/Android test of Altme & Talao app and manage feedback user <br />
-    <a> Web3 Digital Wallet </a><a href="https://altme-documentation.gitbook.io/wallet-provider-documentation/">Documentation</a> with <a href="https://www.gitbook.com/">GitBook</a> <br />
-    <a href="https://github.com/TalaoDAO/DiscoverV2">Discover</a> part for the Altme app with the <a href="https://apiguide.coingecko.com/exclusive-endpoints/for-paid-plan-subscribers">Coingecko API</a> <br />
-    <a href="https://github.com/TalaoDAO/wallet-provider">Wallet Provider</a> to create your own Issuers for Professional Wallet with the <a href="https://docs.godiddy.com/en/quickstart">Godiddy API</a> <br />
-    
-   
-    
-  </div>
+  
+  <h2>🌟 Welcome to my corner of the coding universe! 🌟</h2><br />
+    <h4 align="center">My tasks at WEB3 DIGITAL WALLET 📝</h4>
+    <div>
+      <table align="center">
+          <tr>
+              <td><a href="https://github.com/TalaoDAO/wallet-provider">Wallet Provider</a> - To create your own Issuers for Professional Wallet</td>
+          </tr>
+          <tr>
+              <td><a href="https://github.com/TalaoDAO/DiscoverV2">Discover</a> - The NFT & Coins part for ALtme wallet with the <a href="https://apiguide.coingecko.com/exclusive-endpoints/for-paid-plan-subscribers">Coingecko API</a></td>
+          </tr>
+          <tr>
+              <td><a href="https://altme-documentation.gitbook.io/wallet-provider-documentation/">Documentation v1</a> - Do with GitBook</td>
+          </tr>
+          <tr>
+              <td><a href="https://github.com/TalaoDAO/talao-documentation">Documentation v2</a> - New version with <a href="https://docusaurus.io/">docusaurus</td>
+          </tr>
+          <tr>
+              <td>IOS/Android test of Altme & Talao app and manage feedback user</td>
+          </tr>
+      </table>
+      <br />
+      <h4 align="center">My Open Source Projects 😎</h4>
+      <table align="center">
+          <tr>
+              <td><a href="https://github.com/BastienLopez/Berserk">Berserk</a> - Summaries and explanations of the stories, characters as well as an interactive map of the Berserk universe by Kentarō Miura</td>
+          </tr>
+          <tr>
+              <td><a href="https://github.com/BastienLopez/2d_to_3d">2d to 3d</a> - Convert a 2D image to a 3D representation using depth generation and AI enhancement techniques</td>
+          </tr>
+          <tr>
+              <td><a href="https://github.com/BastienLopez/Cyberpunk-Project">Cyberpunk Animation</a> - Cyberpunk style glitched terminal</td>
+          </tr>
+      </table>
+    </div>
   
   <h2>Contact me 📩</h2>
     <a href="https://www.linkedin.com/in/bastien-lopez-185186208/">
