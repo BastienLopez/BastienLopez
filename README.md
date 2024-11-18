@@ -57,6 +57,12 @@
       <h4 align="center">My Open Source Projects 😎</h4>
       <table align="center">
           <tr>
+              <td><a href="https://github.com/BastienLopez/CESI_Superviser_dev_app">Breizhsport</a> - A sport ecommer's website in micro services under clean code TDD & hosted in the cloud carried out within the CESI</td>
+          </tr>
+          <tr>
+              <td><a href="https://github.com/BastienLopez/NOVOTEL_Roue_de_la_chance">NOVOTEL - Roue de la chance</a> - Interactive website for Novotel where users can give feedback and then try their luck with a wheel to win rewards.</td>
+          </tr>
+          <tr>
               <td><a href="https://github.com/BastienLopez/Berserk">Berserk</a> - Summaries and explanations of the stories, characters as well as an interactive map of the Berserk universe by Kentarō Miura</td>
           </tr>
           <tr>
