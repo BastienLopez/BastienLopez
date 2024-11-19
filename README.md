@@ -6,7 +6,7 @@
   I'm Bastien, 23, a French Full-Stack developer.<br />
   4rd year of application design, development and management.<br />
   I currently work fully remotely at WEB3 DIGITAL WALLET.<br />
-  Let's see my resume for more information about my Technical Skills : <br />
+  Let's see my resume for more information about me & my Technical Skills : <br />
     - <a href="https://github.com/BastienLopez/Pro/blob/main/CV_EN.md">English</a> <br />
     - <a href="https://github.com/BastienLopez/Pro/blob/main/CV_FR.md">French</a>
   <br />
@@ -28,6 +28,7 @@
     <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-blue?style=flat&logo=docker&logoColor=black"></a>
     <br />
     <a href="https://www.gitbook.com/"><img src="https://img.shields.io/badge/gitbook-blue?style=flat&logo=gitbook&logoColor=black"></a>
+    <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/github_actions-grey?style=flat&logo=github&logoColor=black"></a>
     <a href="https://docusaurus.io/"><img src="https://img.shields.io/badge/docusaurus-green_lime?style=flat&logo=docusaurus&logoColor=black"></a>
     <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
     <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white"></a>
