@@ -5,7 +5,10 @@
   <h2>Welcome to my Github ! :wave:</h2>
   I'm Bastien, 23, a French Full-Stack developer.<br />
   4rd year of application design, development and management.<br />
-  I currently work fully remotely at WEB3 DIGITAL WALLET
+  I currently work fully remotely at WEB3 DIGITAL WALLET.<br />
+  Let's see my resume for more information about my Technical Skills : <br />
+    - <a href="https://github.com/BastienLopez/Pro/blob/main/CV_EN.md">English</a> <br />
+    - <a href="https://github.com/BastienLopez/Pro/blob/main/CV_FR.md">French</a>
   <br />
 
   <h2>About :pushpin:</h2>
