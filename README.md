@@ -7,8 +7,8 @@
   4rd year of application design, development and management.<br />
   Actively looking for work-study 2024-2025.<br />
   Let's see my resume for more information about me & my Technical Skills : <br />
-    - <a target="_blank" href="https://github.com/BastienLopez/Pro/blob/main/CV_EN.md">English</a> <br />
-    - <a target="_blank" href="https://github.com/BastienLopez/Pro/blob/main/CV_FR.md">French</a>
+    - <a href="https://github.com/BastienLopez/Pro/blob/main/CV_EN.md" target="_blank" >English</a> <br />
+    - <a href="https://github.com/BastienLopez/Pro/blob/main/CV_FR.md" target="_blank">French</a>
   <br />
 
   <h2>About :pushpin:</h2>
@@ -38,7 +38,7 @@
 
   
   <h2>🌟 Welcome to my corner of the coding universe! 🌟</h2><br />
-    <h4 align="center">My tasks at WEB3 DIGITAL WALLET 📝</h4>
+    <h4 align="center">My tasks at <a href="https://github.com/TalaoDAO" target="_blank"> WEB3 DIGITAL WALLET 📝</a></h4>
     <div>
       <table align="center">
           <tr>
