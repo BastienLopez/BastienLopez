@@ -1,40 +1,56 @@
+<div align="center" style="pointer-events: none;">
+    <img alt="Coding" width="400" height="300" src="dev_gif.gif">
+</div>
+
 <div align="center">
-  <div style="pointer-events: none;">
-    <img alt="Coding" width="600" height="400" src="dev_gif.gif">
-  </div>
   <h2>Welcome to my Github ! :wave:</h2>
-  I'm Bastien, 23, a French Full-Stack developer.<br />
-  4rd year of application design, development and management.<br />
-  Actively looking for work-study 2024-2025.<br />
-  Let's see my resume for more information about me & my Technical Skills : <br />
-    - <a href="https://github.com/BastienLopez/Pro/blob/main/CV_EN.md" target="_blank" >English</a> <br />
-    - <a href="https://github.com/BastienLopez/Pro/blob/main/CV_FR.md" target="_blank">French</a>
+  I'm Bastien, a Full-Stack developer.<br />
+  Actively looking for work 2025-20XX.<br />
+  For more details about my background and technical expertise, please refer to my resume : <br />
+    - <a href="https://github.com/BastienLopez/CV-resume/blob/main/CV_EN.md" target="_blank" >English</a> <br />
+    - <a href="https://github.com/BastienLopez/CV-resume/blob/main/CV_FR.md" target="_blank">French</a>
   <br />
 
-  <h2>About :pushpin:</h2>
-  👾 Always interested in discovering new languages, frameworks, ... <br />
-  📈 With the aim of making my programs optimized, ordered and intuitive.<br />
-  🎮 Also a fan and player/content creator on different FPS games.
-  <br />
+  
 
   <h2>Tech Stack 💻</h2>
   <div align="center">
-    <a href="https://www.w3.org/MarkUp/"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a>
-    <a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"></a>
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></a>
-    <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"></a>
-    <a href="https://web3js.readthedocs.io/"><img src="https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white"></a>
-    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-blue?style=flat&logo=docker&logoColor=black"></a>
-    <br />
-    <a href="https://www.gitbook.com/"><img src="https://img.shields.io/badge/gitbook-blue?style=flat&logo=gitbook&logoColor=black"></a>
-    <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/github_actions-grey?style=flat&logo=github&logoColor=black"></a>
-    <a href="https://docusaurus.io/"><img src="https://img.shields.io/badge/docusaurus-green_lime?style=flat&logo=docusaurus&logoColor=black"></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
-    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white"></a>
-    <a href="https://www.webflow.com/"><img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white"></a>
-    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  </div>
+  <!-- Front-End -->
+  <h3>Front-End</h3>
+  <a href="https://www.w3.org/MarkUp/"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript"></a>
+  <a href="https://www.webflow.com/"><img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white" alt="Webflow"></a>
+  <br />
+
+  <!-- Back-End -->
+  <h3>Back-End</h3>
+  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js"></a>
+  <a href="https://web3js.readthedocs.io/"><img src="https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white" alt="Web3.js"></a>
+  <br />
+
+  <!-- Database -->
+  <h3>Database</h3>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="https://sql.sh/"><img src="https://img.shields.io/badge/SQL-%2300000f.svg?style=flat&logo=sql&logoColor=white" alt="SQL"></a>
+  <a href="https://www.mongodb.com/fr-fr"><img src="https://img.shields.io/badge/mongoDB-%2300000f.svg?style=flat&logo=mongoDB&logoColor=green" alt="MongoDB"></a>
+  <br />
+
+  <!-- DevOps -->
+  <h3>DevOps</h3>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-blue?style=flat&logo=docker&logoColor=black" alt="Docker"></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/github_actions-grey?style=flat&logo=github&logoColor=black" alt="GitHub Actions"></a>
+  <br />
+
+  <!-- Documentation & Collaboration -->
+  <h3>Documentation & Collaboration</h3>
+  <a href="https://www.gitbook.com/"><img src="https://img.shields.io/badge/gitbook-blue?style=flat&logo=gitbook&logoColor=black" alt="GitBook"></a>
+  <a href="https://docusaurus.io/"><img src="https://img.shields.io/badge/docusaurus-green_lime?style=flat&logo=docusaurus&logoColor=black" alt="Docusaurus"></a>
+</div>
+
 
   
   <h2>🌟 Welcome to my corner of the coding universe! 🌟</h2><br />
@@ -42,13 +58,13 @@
     <div>
       <table align="center">
           <tr>
-              <td><a href="https://github.com/TalaoDAO/wallet-provider">Wallet Provider</a> - To create your own Issuers for Professional Wallet</td>
+              <td><a href="https://github.com/TalaoDAO/wallet-provider">Wallet Provider</a> - Developed and enhanced a back-end platform for managing digital wallets and verifiable credentials
           </tr>
           <tr>
-              <td><a href="https://github.com/TalaoDAO/DiscoverV2">Discover</a> - The NFT & Coins part for ALtme wallet with the <a href="https://apiguide.coingecko.com/exclusive-endpoints/for-paid-plan-subscribers">Coingecko API</a></td>
+              <td><a href="https://github.com/TalaoDAO/DiscoverV2">Discover</a> - Developed and enhanced of the NFT & Coins part for ALtme wallet with the <a href="https://apiguide.coingecko.com/exclusive-endpoints/for-paid-plan-subscribers">Coingecko API</a></td>
           </tr>
           <tr>
-              <td><a href="https://altme-documentation.gitbook.io/wallet-provider-documentation/">Documentation v1</a> - Do with GitBook</td>
+              <td><a href="https://altme-documentation.gitbook.io/wallet-provider-documentation/">Documentation v1</a> - Done with GitBook</td>
           </tr>
           <tr>
               <td><a href="https://github.com/TalaoDAO/talao-documentation">Documentation v2</a> - New version with <a href="https://docusaurus.io/">docusaurus</td>
@@ -77,22 +93,4 @@
           </tr>
       </table>
     </div>
-  
-  <h2>Contact me 📩</h2>
-    <a href="https://www.linkedin.com/in/bastien-lopez-185186208/">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a> 
-    <br>
-    <a> Or by email to: <br> </a> 
-    <a href="mailto:bastien.lopez40@gmail.com">bastien.lopez40@gmail.com</a>
-      
-  <h2>Github stats 📊</h2>
-  <br />
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienLopez&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <br>
-  <div style="pointer-events: none;">
-    <a href="https://visitcount.itsvg.in/api?id=BastienLopez&icon=1&color=11"><br><img src="https://visitcount.itsvg.in/api?id=BastienLopez&icon=1&color=11"></a>
-  </div>
 </div>
