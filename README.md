@@ -92,5 +92,12 @@
               <td><a href="https://github.com/BastienLopez/Cyberpunk-Project">Cyberpunk Animation</a> - Cyberpunk style glitched terminal</td>
           </tr>
       </table>
+    <h2>Contact me 📩</h2>
+    <a href="https://www.linkedin.com/in/bastien-lopez-185186208/">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a> 
+    <br>
+    <a> Or by email to: <br> </a> 
+    <a href="mailto:bastien.lopez40@gmail.com">bastien.lopez40@gmail.com</a>
     </div>
 </div>
