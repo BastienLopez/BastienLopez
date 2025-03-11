@@ -77,6 +77,9 @@
       <h4 align="center">My Open Source Projects 😎</h4>
       <table align="center">
           <tr>
+              <td><a href="https://github.com/BastienLopez/nolvus_mod_dowload_automation">Nolvus mod automation </a> - Automation of mods download (+3k5 mods) Nolvus Skyrim for free account</td>
+          </tr>
+          <tr>
               <td><a href="https://github.com/BastienLopez/CESI_Superviser_dev_app">Breizhsport</a> - A sport ecommer's website in micro services under clean code TDD & hosted in the cloud carried out within the CESI</td>
           </tr>
           <tr>
