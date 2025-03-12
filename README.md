@@ -21,6 +21,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript"></a>
   <a href="https://www.webflow.com/"><img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white" alt="Webflow"></a>
+  <a href="https://www.webflow.com/"><img src="https://img.shields.io/badge/CSS-4353FF?style=flat&logo=CSS&logoColor=white" alt="Css"></a>
   <br />
 
   <!-- Back-End -->
