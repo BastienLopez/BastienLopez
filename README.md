@@ -84,16 +84,23 @@
               <td><a href="https://github.com/BastienLopez/Berserk">Berserk</a> - Summaries and explanations of the stories, characters as well as an interactive map of the Berserk universe by Kentarō Miura</td>
           </tr>
           <tr>
-              <td><a href="https://github.com/BastienLopez/nolvus_mod_dowload_automation">Nolvus mod automation </a> - Automation of mods download (+3k5 mods) Nolvus Skyrim for free account</td>
-          </tr>
-          <tr>
-              <td><a href="https://github.com/BastienLopez/NOVOTEL_Roue_de_la_chance">NOVOTEL - Roue de la chance</a> - Interactive website for Novotel where users can give feedback and then try their luck with a wheel to win rewards.</td>
+              <td><a href="https://github.com/BastienLopez/NOVOTEL_Roue_de_la_chance">NOVOTEL - Wheel of Fortune</a> - Interactive website for Novotel where users can give feedback and then try their luck with a wheel to win rewards</td>
           </tr>
           <tr>
               <td><a href="https://github.com/BastienLopez/2d_to_3d">2d to 3d</a> - Convert a 2D image to a 3D representation using depth generation and AI enhancement techniques</td>
           </tr>
           <tr>
               <td><a href="https://github.com/BastienLopez/Cyberpunk-Project">Cyberpunk Animation</a> - Cyberpunk style glitched terminal</td>
+          </tr>
+      </table>
+      <br />
+      <h4 align="center">My Gaming Open Source Projects 🎮</h4>
+      <table align="center">
+          <tr>
+              <td><a href="https://github.com/BastienLopez/nolvus_mod_dowload_automation">Nolvus mod automation </a> - Automation of mods download (+3k5 mods) Nolvus Skyrim for free account</td>
+          </tr>
+          <tr>
+              <td><a href="https://github.com/BastienLopez/Bloodborne_ShadPS4_60fps">Bloodborne - Emulator installation guide</a> - Installation guide for Bloodborne via ShadPS4 emulator with graphics mods and 60fps + bug fix</td>
           </tr>
       </table>
     <h2>Contact me 📩</h2>
