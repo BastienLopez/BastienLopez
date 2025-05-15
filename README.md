@@ -102,6 +102,9 @@
           <tr>
               <td><a href="https://github.com/BastienLopez/Bloodborne_ShadPS4_60fps">Bloodborne - Emulator installation guide</a> - Installation guide for Bloodborne via ShadPS4 emulator with graphics mods and 60fps + bug fix</td>
           </tr>
+          <tr>
+              <td><a href="https://github.com/BastienLopez/Demons-s-Soules-RPCS3-60fps">Demons's Souls - Emulator installation guide</a> - Installation guide for Demons's Souls via RPCS3 emulator with graphics mods and 60fps + bug fix</td>
+          </tr>
       </table>
     <h2>Contact me 📩</h2>
     <a href="https://www.linkedin.com/in/bastien-lopez-185186208/">
