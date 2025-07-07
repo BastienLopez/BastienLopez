@@ -32,6 +32,15 @@
   <a href="https://web3js.readthedocs.io/"><img src="https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white" alt="Web3.js"></a>
   <br />
 
+  <!-- IA / Machine Learning -->
+  <h3>IA / Machine Learning</h3>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"></a>
+    <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+    <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"></a>
+    <a href="https://vector-db.com/"><img src="https://img.shields.io/badge/VectorDB-000000?style=flat&logo=database&logoColor=white" alt="Vector DB"></a>
+    <a href="https://mastra.ai/en/docs"><img src="https://img.shields.io/badge/Mastra%20IA%20Agent-purple?style=flat&logo=mastra&logoColor=black" alt="Mastra Agent Framework"></a>
+<br />
+     
   <!-- Database -->
   <h3>Database</h3>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"></a>
@@ -77,6 +86,9 @@
       <br />
       <h4 align="center">My Open Source Projects 😎</h4>
       <table align="center">
+          <tr>
+              <td><a href="https://github.com/BastienLopez/ia_trading">Trading IA</a> - An IA trading with ML machine learning and RL reinforcement learning</td>
+          </tr>
           <tr>
               <td><a href="https://github.com/BastienLopez/CESI_Superviser_dev_app">Breizhsport</a> - A sport ecommer's website in micro services under clean code TDD & hosted in the cloud carried out within the CESI</td>
           </tr>
