@@ -64,9 +64,18 @@
 
   
   <h2>🌟 Welcome to my corner of the coding universe! 🌟</h2><br />
-    <h4 align="center">My tasks at <a href="https://github.com/TalaoDAO" target="_blank"> WEB3 DIGITAL WALLET 📝</a></h4>
+    <h4 align="center">My tasks 📝</a></h4>
     <div>
       <table align="center">
+          <tr>
+              <td><a href="https://github.com/aidalinfo/Agent_VEILLE_RSS">Teams BOT</a> - Built a Microsoft Teams bot integrated with Mastra to aggregate RSS feeds, apply NLP summarization, and deliver AI-powered insights.
+          </tr>
+          <tr>
+              <td><a href="https://github.com/aidalinfo/Agent_VEILLE_RSS">Mastra Agent RSS flux</a> - Developed and optimized autonomous AI agents with scalable architectures and behavioral performance analysis (Mastra project).
+          </tr>
+          <tr>
+              <td><a href="https://github.com/aidalinfo/aidalinfoV2">SEO IA</a> - Developed AI powered SEO optimization tools for the <a href="https://aidalinfo.fr/"> Aidalinfo</a> website.
+          </tr>
           <tr>
               <td><a href="https://github.com/TalaoDAO/wallet-provider">Wallet Provider</a> - Developed and enhanced a back-end platform for managing digital wallets and verifiable credentials
           </tr>
