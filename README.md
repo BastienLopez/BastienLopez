@@ -64,7 +64,7 @@
 
   
   <h2>🌟 Welcome to my corner of the coding universe! 🌟</h2><br />
-    <h4 align="center">My tasks 📝</a></h4>
+    <h4 align="center">My tasks in my last jobs📝</a></h4>
     <div>
       <table align="center">
           <tr>
@@ -97,6 +97,9 @@
       <table align="center">
           <tr>
               <td><a href="https://github.com/BastienLopez/ia_trading">Trading IA</a> - An IA trading with ML machine learning and RL reinforcement learning</td>
+          </tr>
+          <tr>
+              <td><a href="https://github.com/BastienLopez/Pokemon_binder">Pokemon Binder</a> - Web application to manage your Pokémon TCG card collection with a virtual binder system.</td>
           </tr>
           <tr>
               <td><a href="https://github.com/BastienLopez/CESI_Superviser_dev_app">Breizhsport</a> - A sport ecommer's website in micro services under clean code TDD & hosted in the cloud carried out within the CESI</td>
