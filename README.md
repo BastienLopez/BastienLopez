@@ -68,10 +68,10 @@
     <div>
       <table align="center">
           <tr>
-              <td><a href="https://github.com/aidalinfo/Agent_VEILLE_RSS">Teams BOT</a> - Built a Microsoft Teams bot integrated with Mastra to aggregate RSS feeds, apply NLP summarization, and deliver AI-powered insights.
+              <td><a href="https://github.com/BastienLopez/Agent_VEILLE_RSS/tree/main/bot-teams-rss">Teams BOT</a> - Built a Microsoft Teams bot integrated with Mastra to aggregate RSS feeds, apply NLP summarization, and deliver AI-powered insights.
           </tr>
           <tr>
-              <td><a href="https://github.com/aidalinfo/Agent_VEILLE_RSS">Mastra Agent RSS flux</a> - Developed and optimized autonomous AI agents with scalable architectures and behavioral performance analysis (Mastra project).
+              <td><a href="https://github.com/BastienLopez/Agent_VEILLE_RSS">Mastra Agent RSS flux</a> - Developed and optimized autonomous AI agents with scalable architectures and behavioral performance analysis (Mastra project).
           </tr>
           <tr>
               <td><a href="https://github.com/aidalinfo/aidalinfoV2">SEO IA</a> - Developed AI powered SEO optimization tools for the <a href="https://aidalinfo.fr/"> Aidalinfo</a> website.
