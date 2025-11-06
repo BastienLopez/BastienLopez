@@ -113,9 +113,6 @@
           <tr>
               <td><a href="https://github.com/BastienLopez/2d_to_3d">2d to 3d</a> - Convert a 2D image to a 3D representation using depth generation and AI enhancement techniques</td>
           </tr>
-          <tr>
-              <td><a href="https://github.com/BastienLopez/Cyberpunk-Project">Cyberpunk Animation</a> - Cyberpunk style glitched terminal</td>
-          </tr>
       </table>
       <br />
       <h4 align="center">My Gaming Open Source Projects 🎮</h4>
