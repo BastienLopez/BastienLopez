@@ -6,7 +6,7 @@
   <h2>Welcome to my Github ! :wave:</h2>
   I'm Bastien, a Full-Stack developer.<br />
   Actively looking for work 2025-20XX.<br />
-    <a href="https://bastienlopez.github.io/Portfolio/" target="_blank">My Portflio</a> <br />
+    <a href="https://bastienlopez.github.io/Portfolio/" target="_blank">My Portflio</a> <br /><br />
   For more details about my background and technical expertise, please refer to my resume : <br />
     - <a href="https://github.com/BastienLopez/CV-resume/blob/main/CV_EN.md" target="_blank" >English</a> <br />
     - <a href="https://github.com/BastienLopez/CV-resume/blob/main/CV_FR.md" target="_blank">French</a>
