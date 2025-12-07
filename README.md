@@ -87,7 +87,7 @@
               <td><a href="https://altme-documentation.gitbook.io/wallet-provider-documentation/">Documentation v1</a> - Done with GitBook</td>
           </tr>
           <tr>
-              <td><a href="https://github.com/TalaoDAO/talao-documentation">Documentation v2</a> - New version with <a href="https://docusaurus.io/">docusaurus</td>
+              <td><a href="https://github.com/TalaoDAO/talao-documentation">Documentation v2</a> - New version with <a href="https://docusaurus.io/">docusaurus</a> available at : <a href="https://doc.wallet-provider.io/welcome/"> Altme Documentation </td>
           </tr>
           <tr>
               <td>IOS/Android test of Altme & Talao app and manage feedback user</td>
@@ -99,20 +99,39 @@
           <tr>
               <td><a href="https://github.com/BastienLopez/ia_trading">Trading IA</a> - An IA trading with ML machine learning and RL reinforcement learning</td>
           </tr>
-          <tr>
-              <td><a href="https://github.com/BastienLopez/Pokemon_binder">Pokemon Binder</a> - Web application to manage your Pokémon TCG card collection with a virtual binder system.</td>
+           <tr>
+              <td><a href="https://github.com/BastienLopez/ia_trading">Patripro</a> - A comprehensive web application for managing your financial assets (investments, accounts, savings, loans) <br> Available at : <a href="https://bastienlopez.github.io/PatriPro/"> PatriPro </td>
           </tr>
           <tr>
+              <td><a href="https://github.com/BastienLopez/Pokemon_binder">Pokemon Binder</a> - Web application to manage your Pokémon TCG card collection with a virtual binder system <br> Available at : <a href="https://bastienlopez.github.io/Pokemon_binder/user"> Pokemon Binder </td>
+          </tr>
+          <!-- <tr>
               <td><a href="https://github.com/BastienLopez/CESI_Superviser_dev_app">Breizhsport</a> - A sport ecommer's website in micro services under clean code TDD & hosted in the cloud carried out within the CESI</td>
-          </tr>
+          </tr> -->
           <tr>
-              <td><a href="https://github.com/BastienLopez/Berserk">Berserk</a> - Summaries and explanations of the stories, characters as well as an interactive map of the Berserk universe by Kentarō Miura</td>
+              <td><a href="https://github.com/BastienLopez/Berserk">Berserk</a> - Summaries and explanations of the stories, characters as well as an interactive map of the Berserk universe by Kentarō Miura <br> Available at : <a href="https://bastienlopez.github.io/Berserk/templates/Kentaro_Miura.html"> Berserk </td>
           </tr>
           <tr>
               <td><a href="https://github.com/BastienLopez/NOVOTEL_Roue_de_la_chance">NOVOTEL - Wheel of Fortune</a> - Interactive website for Novotel where users can give feedback and then try their luck with a wheel to win rewards</td>
           </tr>
           <tr>
               <td><a href="https://github.com/BastienLopez/2d_to_3d">2d to 3d</a> - Convert a 2D image to a 3D representation using depth generation and AI enhancement techniques</td>
+          </tr>
+      </table>
+      <br />
+      <h4 align="center">My Freelance Projects 🙋🏽‍♀️</h4>
+      <table align="center">
+          <tr>
+              <td><a href="https://github.com/BastienLopez/nolvus_mod_dowload_automation">Nursery ERP </a> - A comprehensive and multifunctional ERP system designed specifically for managing multiple micro-nurseries. The solution allows for data centralization and monitoring of several facilities from a single, centralized interface.</td>
+          </tr>
+          <tr>
+              <td><a href="https://github.com/BastienLopez/nolvus_mod_dowload_automation">Eloi CoachStéo - Sport Trainer </a> - A one-page website for a professional sports coach and osteopath <br> Available at : <a href="https://bastienlopez.github.io/Eloi_Coaching/"> Eloi CoachStéo </td>
+          </tr>
+           <tr>
+              <td><a href="https://github.com/BastienLopez/nolvus_mod_dowload_automation">Luxury Auto Detailing </a> - A showcase website for an automotive detailing workshop offering high-end services: polishing, decontamination, ceramic protection and interior makeover <br> Available at : <a href="https://bastienlopez.github.io/LuxuryAutoDetailling/"> Luxury Auto Detailling </td
+          </tr>
+           <tr>
+              <td><a href="https://github.com/BastienLopez/nolvus_mod_dowload_automation">Clé de Voute </a> - A showcase website for a masonry contractor <br> Available at : <a href="https://bastienlopez.github.io/CleDeVoute/"> Clé de Voute </td>
           </tr>
       </table>
       <br />
