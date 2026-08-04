@@ -15,7 +15,7 @@
     I build reliable tools that connect systems, structure business processes and reduce repetitive work.
   </p>
 
-<a>For more information about me and the tasks I've completed : <a href="https://bastienlopez.github.io/Portfolio/" target="_blank">My Portflio</a> <br /> </a>
+<a>For more information about me and the tasks I've completed : <a href="https://bastienlopez.fr" target="_blank">My Portflio</a> <br /> </a>
 <a>A portfolio is always nicer to look at than a GitHub profile 😎 </a> <br /> <br />
 For more details about my background and technical expertise, please refer to my resume : <br />
 👉🏽 <a href="https://github.com/BastienLopez/CV-resume/blob/main/CV_EN.md" target="_blank" >English</a>
