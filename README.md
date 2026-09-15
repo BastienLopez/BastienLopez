@@ -32,7 +32,7 @@ I am a full-stack developer specialising in **business applications, APIs and AI
 
 I work with product teams and freelance clients who need to structure, connect or automate internal tools. My approach is pragmatic: understand the business need, define the useful scope, deliver a reliable first version and improve it iteratively.
 
-- **5+ years of experience**
+- **7+ years of experience**
 - **30+ projects and builds**
 - **10+ industries and business contexts**
 - Open to **remote/full-remote permanent roles** and **focused freelance engagements**
